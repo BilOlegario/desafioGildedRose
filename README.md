@@ -8,3 +8,5 @@ Sinta-se a vontade para colocar mais itens na lista, desde que eles respeitem as
 Este projeto foi feito com muito empenho, trazendo mais aprenzidados para mim. Principalmente se tratando de boas práticas e organização dos arquivos, além de me ajudar a praticar comandos básicos.
 
 Os principais arquivos com as funcionalidades gerais estão dentro da pasta models, e o arquivo index.js na raiz da pasta app.
+( https://github.com/emilybache/GildedRose-Refactoring-Kata/blob/main/GildedRoseRequirements_pt-BR.md )
+( https://github.com/emilybache/GildedRose-Refactoring-Kata/blob/main/GildedRoseRequirements.txt )
